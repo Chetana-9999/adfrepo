@@ -1,0 +1,9 @@
+{
+	"name": "caj-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89de21ae-c5b3-4a68-b1ed-0a2238723ce5",
+		"tenantId": "7bc0208d-fd47-403f-89f8-cebd0f5f92a2"
+	}
+}
